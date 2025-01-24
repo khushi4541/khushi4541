@@ -8,6 +8,8 @@
 - 💬 Ask me about **any collab ideas you might have!**
 
 - 📫 How to reach me **khushi4541@gmail.com**
+  
+- ⚡ Fun fact **I have a bachelor's degree in Biochemistry from The University of Toronto!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
