@@ -1,7 +1,7 @@
 <h1 >Hi 👋, I'm Khushi</h1>
 <h3 >A passionate full-stack developer and UX designer from Toronto!</h3>
 
-- 🔭 I’m currently working on **LevelUp an interactive habit-tracking app (checkout my public repo)**
+- 🔭 I’m currently working on **LevelUp an interactive habit-tracking app I did for my BrainStation capstone**
 
 - 🌱 I’m currently learning **TypeScript, BootStrap, MongoDB**
 
