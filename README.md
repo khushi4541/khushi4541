@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LevelUp an interactive habit-tracking app I did for my BrainStation capstone**
 
-- 🌱 I’m currently learning **TypeScript, BootStrap, MongoDB**
+- 🌱 I’m currently learning **TypeScript, Python, MongoDB**
 
 - 💬 Ask me about **any collab ideas you might have!**
 
